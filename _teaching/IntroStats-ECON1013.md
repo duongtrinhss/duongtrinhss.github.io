@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/IntroStats-ECON1013
 venue: "University of Glasgow"
-date: 2024
+date: 2024-01-01
 ---
 
 [Link](https://github.com/duongtrinhss/GTA-ECON1013-IntroStats)

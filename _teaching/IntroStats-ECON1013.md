@@ -1,7 +1,7 @@
 ---
 title: "Introductory Statistics for Economics (ECON1013)"
 collection: teaching
-type: "Postgraduate course"
+type: "Undergraduate course"
 permalink: /teaching/IntroStats-ECON1013
 venue: "University of Glasgow"
 date: 2024-01-01

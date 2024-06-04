@@ -21,18 +21,17 @@ repository               : "duongtrinhss.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
   name             : "Duong Trinh"
-  # pronouns         : # example: "she/her"  
+  avatar           : "profile.png"
   bio              : "PhD Student in Economics at University of Glasgow (UofG)"
   location         : "Glasgow, United Kingdom"
-  # employer         : "Red Brick University"
-  uri              : # URL
+  employer         : 
+  uri              : 
   email            : "Duong.Trinh@glasgow.ac.uk" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.co.uk/citations?hl=en&user=eX0WP4AAAAAJ""
+  googlescholar    : "https://scholar.google.co.uk/citations?hl=en&user=eX0WP4AAAAAJ"
   # impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   # semantic         : # URL

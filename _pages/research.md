@@ -10,7 +10,6 @@ author_profile: true
 ## Work In Progress
 * Bayesian Causal Inference in the Presence of Endogenous Selection into Treatment and Spillovers.
 
-
 ## Working Papers
 * Causal Inference on Quantiles in High Dimensions: A Bayesian Approach.
 * A Comparative Review of Bayesian Shrinkage and Variable Selection in Econometrics.

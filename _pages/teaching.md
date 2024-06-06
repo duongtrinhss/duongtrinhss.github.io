@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+## Introductory Statistics for Economics (ECON1013)
+* GTA - Undergraduate course, University of Glasgow
+* Spring 2022, Spring 2024
+
 ## Work In Progress
 * Bayesian Causal Inference in the Presence of Endogenous Selection into Treatment and Spillovers.
 

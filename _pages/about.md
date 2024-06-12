@@ -11,11 +11,11 @@ My name is Duong Trinh. Currently, I am a Ph.D. student in Economics at the [Uni
 
 ### Education
 * 2021–2025 (expected), Ph.D. in Economics  
-  *University of Glasgow, UK*.
+  <small> University of Glasgow, UK. <small>
 * 2019-2021, M.Res. in Economics  
-  *University of Glasgow, UK*.
+  <small> University of Glasgow, UK. <small>
 * 2014-2018, B.A. in International Business Economics  
-  *Foreign Trade University, Vietnam*.
+  <small> Foreign Trade University, Vietnam. <small>
 
 ### Research Interests
 * Causal Inference

@@ -18,7 +18,8 @@ My name is Duong Trinh. Currently, I am a Ph.D. student in Economics at the [Uni
   <small> Foreign Trade University, Vietnam. <small>
 
 ### Research Interests
-* Causal Inference
+* Causal Inference, Quantile Treatment Effects, Heterogeneous Treatment Effects
 * Bayesian Statistics
 * Machine Learning and High-dimensional Models
 * Spatial and Network Data
+* Development Economics

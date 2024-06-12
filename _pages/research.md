@@ -8,10 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ## Work In Progress
-* Bayesian Causal Inference in the Presence of Endogenous Selection into Treatment and Spillovers.
+- ***Bayesian Causal Inference in the Presence of Endogenous Selection into Treatment and Spillovers.***
 
 ## Working Papers
-- *Causal Inference on Quantiles in High Dimensions: A Bayesian Approach.*  
+- ***Causal Inference on Quantiles in High Dimensions: A Bayesian Approach.*** (2024).
 
   <div class="collapsible"> 
     <button class="button-4 collapsible-btn">abstract</button>
@@ -23,9 +23,9 @@ author_profile: true
   </div>
   </div>
 
-- *A Comparative Review of Bayesian Shrinkage and Variable Selection in Econometrics.*
+- ***A Comparative Review of Bayesian Shrinkage and Variable Selection in Econometrics.*** (joint with Dimitris Korobilis, Kenichi Shimizu) (2022).
 
-- *Government disclosure in the pandemic.*
+- ***Government disclosure in the pandemic.*** (2020).
 
   <div class="collapsible"> 
     <button class="button-4 collapsible-btn">abstract</button>
@@ -37,7 +37,7 @@ author_profile: true
   </div>
   </div>
 
-- *Early career gender wage gap: First evidence in Vietnam.*
+- ***Early career gender wage gap: First evidence in Vietnam.*** (joint with Anh Nguyen Ngoc, Hai Doan Ma, Thuc Hoang Kim). Paper presented at *11th Vietnam Economist Annual Meeting* (2018).
 
   <div class="collapsible"> 
     <button class="button-4 collapsible-btn">abstract</button>
@@ -49,19 +49,19 @@ author_profile: true
   </div>
 
 ## Publications
-- *Firm export and the impact of foreign ownership in Vietnam: A micro-data analysis.*
+- ***Firm export and the impact of foreign ownership in Vietnam: A micro-data analysis.*** (joint with Vinh Nguyen Thi Thuy), *Journal of Economic Development* (2020), 45(1).
 
   <div class="collapsible"> 
     <button class="button-4 collapsible-btn">abstract</button>
     <a class="button-4" href="https://jed.cau.ac.kr/archives/45-1/45-1-7.pdf">pdf</a> 
   <div class="collapsible-content" style="max-height: 80%">
     <p style='text-align: justify;'>
-      This paper investigates the impact of foreign ownership on firm exports in Vietnam and analyzes how export participation and export intensity vary with ownership status by comparing Foreign Direct Investment enterprises (FDI enterprises) versus domestic firms, and wholly-foreign-owned enterprises (WFs) versus foreign joint ventures (JVs). Using data from 2010-2015 Vietnamese Enterprise Survey (VES), we document that after controlling for firm characteristics, industry, and region, FDI enterprises have higher export participation and higher export intensity than local firms. The finding supports the hypothesis that FDI enterprises inherit from foreign firms competitive advantages and therefore become superior in exports. We also find that while export participation is similar between JVs and WFs, export intensity is significantly higher for WFs than for JVs. This suggests that export-oriented foreign investors tend to establish 100\% foreign-owned companies to exploit advantages of labor costs or natural resources, while domestic-oriented firms tend to form joint ventures to penetrate the domestic market.
+      This paper investigates the impact of foreign ownership on firm exports in Vietnam and analyzes how export participation and export intensity vary with ownership status by comparing Foreign Direct Investment enterprises (FDI enterprises) versus domestic firms, and wholly-foreign-owned enterprises (WFs) versus foreign joint ventures (JVs). Using data from 2010-2015 Vietnamese Enterprise Survey (VES), we document that after controlling for firm characteristics, industry, and region, FDI enterprises have higher export participation and higher export intensity than local firms. The finding supports the hypothesis that FDI enterprises inherit from foreign firms competitive advantages and therefore become superior in exports. We also find that while export participation is similar between JVs and WFs, export intensity is significantly higher for WFs than for JVs. This suggests that export-oriented foreign investors tend to establish 100% foreign-owned companies to exploit advantages of labor costs or natural resources, while domestic-oriented firms tend to form joint ventures to penetrate the domestic market.
     </p>
   </div>
   </div>
 
-- *The impact of exchange rate volatility on exports in Vietnam: A bounds testing approach.*
+- ***The impact of exchange rate volatility on exports in Vietnam: A bounds testing approach.*** (joint with Vinh Nguyen Thi Thuy), *Journal of Risk and Financial Management* (2019), 12(1).
 
   <div class="collapsible"> 
     <button class="button-4 collapsible-btn">abstract</button>

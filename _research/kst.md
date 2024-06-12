@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "A Comparative Review of Bayesian Shrinkage and Variable Selection in Econometrics"
 collection: research
 permalink: /research/kst
 ---

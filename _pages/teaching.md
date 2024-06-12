@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ### [Introductory Statistics for Economics (ECON1013)](https://github.com/duongtrinhss/GTA-ECON1013-IntroStats)
-&bull; <small> GTA - Undergraduate course, University of Glasgow <small> &bull; <small> Spring semester 2022, Spring semester 2024 <small>
+<small> &bull; GTA - Undergraduate course, University of Glasgow &bull; Spring semester 2022, Spring semester 2024 <small>
 
 ### [Econometrics 2 (ECON4004)](https://github.com/duongtrinhss/GTA-ECON4004-Econometrics2)
 &bull; <small> GTA - Undergraduate course, University of Glasgow <small> &bull; <small> Spring semester 2024 <small>

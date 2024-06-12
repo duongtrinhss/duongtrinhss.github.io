@@ -27,7 +27,7 @@ author_profile: true
 
   <div class="collapsible"> 
     <button class="button-4 collapsible-btn">abstract</button>
-    <a class="button-4" href="/research/kts">notes</a> 
+    <a class="button-4" href="/research/kts.md">notes</a> 
   <div class="collapsible-content" style="max-height: 80%">
     <p style='text-align: justify;'>
     </p>

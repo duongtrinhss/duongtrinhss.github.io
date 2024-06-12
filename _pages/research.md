@@ -14,8 +14,8 @@ author_profile: true
 - ***Causal Inference on Quantiles in High Dimensions: A Bayesian Approach.*** (2024).
 
   <div class="collapsible"> 
-    <button class="button-4 collapsible-btn">abstract</button>
-    <a class="button-4" href="../files/BADRQTE-DuongTrinh.pdf">pdf</a> 
+    <button class="button collapsible-btn">abstract</button>
+    <a class="button" href="../files/BADRQTE-DuongTrinh.pdf" style="font-size:80%;">pdf</a> 
   <div class="collapsible-content">
     <p style="text-align:justify;font-size:80%;">
       This paper proposes a novel approach, Bayesian Analog of Doubly Robust (BADR) estimation, to estimate unconditional Quantile Treatment Effects (QTEs) in observational studies. By augmenting the proposed estimator with shrinkage priors, this framework can account for high-dimensional covariates and feature a flexible Bayesian modeling strategy with favorable frequentist properties in finite samples, even when either the treatment assignment or outcome models are misspecified. The proposed approach offers a straightforward and adaptable implementation for incorporating probabilistic machine learning techniques to fit the propensity score and conditional cumulative distribution function, followed by combining posterior draws. This enables the effective handling of high-dimensional covariate spaces or nonlinear relationships to achieve better accuracy and appropriate uncertainty quantification. The simulation results show that BADR estimators yield a substantial improvement in bias reduction for QTE estimates compared with popular alternative estimators found in the literature. We revisit the role of microcredit expansion and loan access on Moroccan household outcomes, demonstrating how the new method adds value in characterizing heterogeneous distributional impacts on outcomes and detecting changes in overall economic inequality, which is also appealing to other applied contexts.

@@ -2,6 +2,10 @@
 title: "A Comparative Review of Bayesian Shrinkage and Variable Selection in Econometrics"
 collection: research
 permalink: /research/kst
+tags:
+  - shrinkage priors
+  - high-dimensional covariates
+  - Bayesian statistics
 ---
 
 

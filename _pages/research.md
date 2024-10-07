@@ -10,12 +10,21 @@ author_profile: true
 ## Work In Progress
 - ***Bayesian Causal Inference in the Presence of Endogenous Selection into Treatment and Spillovers.***
 
+  <div class="collapsible"> 
+    <button class="button-4 collapsible-btn">abstract</button>
+    <a class="button-4" href="../files/BADRQTE-DuongTrinh.pdf">pdf</a> 
+  <div class="collapsible-content">
+    <p style="text-align:justify;font-size:80%;">
+      This paper proposes a new approach utilizing network or spatial data to identify and estimate direct and indirect causal effects amid selection-on-unobservables and spillovers. This situation occurs due to the violation of unconfoundedness and SUTVA assumptions, typically assumed in causal inference literature but often implausible in many economic scenarios. Our devised framework nests the Generalized Roy Model to explicitly account for endogenous selection into treatment, while capturing spillovers through exposure mapping to neighbors' treatment. This allows for heterogeneous effects across individuals and enables the exploration of various causal estimands beyond the mean. We develop Bayesian estimators based on data augmentation methods, offering efficient computation and proper uncertainty quantification. We design a simulation study to assess the performance of the proposed approach using both  calibrated synthetic data and real friendship network data from the Add-Health study. Finally, we apply our method to evaluate the Opportunity Zones (OZ) program, which aims to stimulate economic growth in distressed U.S. census tracts through tax incentives. Our results show both direct and indirect positive impacts on housing unit growth in designated Qualified Opportunity Zones (QOZs), but unselected tracts (non-QOZs) experience no beneficial spillovers, remaining at a disadvantage. The differences between QOZs and non-QOZs imply extending the positive effects to non-QOZs seems unlikely. Moreover, our model predicts that offering investment tax credits to non-QOZs would even lead to negative outcomes, making the program's expansion to these areas ineffective.
+    </p>
+  </div>
+  </div>
+
 ## Working Papers
 - ***Causal Inference on Quantiles in High Dimensions: A Bayesian Approach.*** (2024).
 
   <div class="collapsible"> 
     <button class="button-4 collapsible-btn">abstract</button>
-    <a class="button-4" href="../files/BADRQTE-DuongTrinh.pdf">pdf</a> 
   <div class="collapsible-content">
     <p style="text-align:justify;font-size:80%;">
       This paper proposes a novel approach, Bayesian Analog of Doubly Robust (BADR) estimation, to estimate unconditional Quantile Treatment Effects (QTEs) in observational studies. By augmenting the proposed estimator with shrinkage priors, this framework can account for high-dimensional covariates and feature a flexible Bayesian modeling strategy with favorable frequentist properties in finite samples, even when either the treatment assignment or outcome models are misspecified. The proposed approach offers a straightforward and adaptable implementation for incorporating probabilistic machine learning techniques to fit the propensity score and conditional cumulative distribution function, followed by combining posterior draws. This enables the effective handling of high-dimensional covariate spaces or nonlinear relationships to achieve better accuracy and appropriate uncertainty quantification. The simulation results show that BADR estimators yield a substantial improvement in bias reduction for QTE estimates compared with popular alternative estimators found in the literature. We revisit the role of microcredit expansion and loan access on Moroccan household outcomes, demonstrating how the new method adds value in characterizing heterogeneous distributional impacts on outcomes and detecting changes in overall economic inequality, which is also appealing to other applied contexts.

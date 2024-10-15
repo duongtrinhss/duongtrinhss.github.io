@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Work In Progress
-- ***Bayesian Causal Inference in the Presence of Endogenous Selection into Treatment and Spillovers.***
+- ***Bayesian Causal Inference in the Presence of Endogenous Selection into Treatment and Spillovers.*** (2024).
 
   <div class="collapsible"> 
     <button class="button-4 collapsible-btn">abstract</button>
@@ -66,7 +66,7 @@ author_profile: true
   </div>
   </div>
 
-## Publications
+## Publications (PreDoc)
 - ***Firm export and the impact of foreign ownership in Vietnam: A micro-data analysis.*** (joint with Vinh Nguyen Thi Thuy), *Journal of Economic Development* (2020), 45(1).
 
   <div class="collapsible"> 

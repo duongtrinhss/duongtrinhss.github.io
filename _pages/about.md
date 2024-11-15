@@ -13,14 +13,14 @@ Currently, I am a Ph.D. student in Economics at the [University of Glasgow](http
 
 I am interested in microeconometrics research, with a focus on Bayesian and machine learning methods, causal inference, and economic heterogeneity.
 
-### Education
+## Education
 * **Ph.D.** in Economics, *University of Glasgow*, 2021–2025 (expected).
 
-* **M.Res.** in Economics , *University of Glasgow*, 2019-2021
+* **M.Res.** in Economics , *University of Glasgow*, 2019-2021.
 
 * **B.A.** in International Business Economics, *Foreign Trade University*, 2014-2018.
 
-### Research Interests
+## Research Interests
 * Bayesian Econometrics
 * Causal Inference, Quantile Treatment Effects, Heterogeneous Treatment Effects
 * Machine Learning and High-dimensional Models

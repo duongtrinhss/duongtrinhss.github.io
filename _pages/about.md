@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Duong Trinh. 
 
-Currently, I am a Ph.D. student in Economics at the [University of Glasgow](https://www.gla.ac.uk/postgraduate/research/economics/), under the supervision of [Professor Dimitris Korobilis](https://sites.google.com/site/dimitriskorobilis/) and [Dr Santiago Montoya-blándon](https://www.smontoyablandon.com/). 
+Currently, I am a Ph.D. student in Economics at the [University of Glasgow](https://www.gla.ac.uk/postgraduate/research/economics/), under the supervision of [Professor Dimitris Korobilis](https://sites.google.com/site/dimitriskorobilis/) and [Dr Santiago Montoya-Blándon](https://www.smontoyablandon.com/). 
 
 I am interested in microeconometrics research, with a focus on Bayesian and machine learning methods, causal inference, and economic heterogeneity.
 
@@ -23,6 +23,6 @@ I am interested in microeconometrics research, with a focus on Bayesian and mach
 ## Research Interests
 * Bayesian Econometrics
 * Causal Inference, Quantile Treatment Effects, Heterogeneous Treatment Effects
-* Machine Learning and High-dimensional Models
+* Statistical Machine Learning and High-dimensional Models
 * Spatial and Network Models
 * Development Economics, International Economics, Innovation Economics, Public Economics

@@ -25,4 +25,4 @@ I am interested in microeconometrics research, with a focus on Bayesian and mach
 * Causal Inference, Quantile Treatment Effects, Heterogeneous Treatment Effects
 * Statistical Machine Learning and High-dimensional Models
 * Spatial and Network Models
-* Development Economics, International Economics, Innovation Economics, Public Economics
+* Development Economics, Innovation, Public Policy.

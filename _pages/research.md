@@ -22,7 +22,20 @@ author_profile: true
   </div>
   </div>
 
-## Working Papers
+## Research Projects
+
+- ***Selection-corrected Spatial Autoregressive Mixture Model for Heterogeneous Network Effects.*** (joint with Santiago Montoya-Blándon) (2025).
+
+  <div class="collapsible"> 
+    <button class="button-4 collapsible-btn">abstract</button>
+  <div class="collapsible-content" style="max-height: 80%">
+    <p style="text-align:justify;font-size:80%;">
+      The spatial autoregressive (SAR) model is widely used to study social interactions that involves networks. Nonetheless, the standard form of SAR relies on two assumptions that limit its applicability: homogeneous network effects and exogenous network structures. While SAR models allow an individual’s outcomes to depend on a weighted average of others’ outcomes, the first assumption is unrealistic when some individuals may be more susceptible to peer effects or exert greater influence than others. The second assumption overlooks potential endogeneity: unobserved factors simultaneously affect both network link decisions and economic outcomes, introducing due selection bias via correlation between the adjacency matrix and the disturbance term of the model. To address these issues, we propose an econometric framework that integrates a finite-mixture model to capture heterogeneous network effects while accounting for endogenous network formation through unobserved heterogeneity. For estimation and inference, we develop a Bayesian Markov chain Monte Carlo algorithm to handle computational challenges caused by the complex likelihood function and latent structure.  We apply our proposed framework to study U.S. firms' technological collaboration networks, examining both the determinants of network formation and the heterogeneous spillover effects on firm performance while maintaining causal interpretation. Furthermore, we assess firms’ influence and vulnerability to exogenous R\&D policy shocks, shedding light on how innovation networks shape economic outcomes.
+    </p>
+  </div>
+  </div>
+
+
 - ***Bayesian Causal Inference in the Presence of Endogenous Selection into Treatment and Spillovers.*** (2024).
 
   <div class="collapsible"> 
@@ -47,7 +60,18 @@ author_profile: true
   </div>
   </div>
   
-- ***Inference on Treatment Effects with High-dimensional Controls: Frequentist and Bayesian Approaches.*** (2021).
+- ***Inference on Treatment Effects with High-dimensional Controls: Frequentist and Bayesian Approaches.*** M.Res. Dissertation (2021).
+
+  <div class="collapsible"> 
+    <button class="button-4 collapsible-btn">abstract</button>
+    <a class="button-4" href="../files/MResDissertation-DuongTrinh.pdf">pdf</a> 
+    <a class="button-4" href="../files/MResDissertation-slides.pdf">slides</a> 
+  <div class="collapsible-content">
+    <p style="text-align:justify;font-size:80%;">
+      Causal inference in observational studies is particularly challenging when the number of potential control variables is large relative to the sample size. The dissertation examines Frequentist and Bayesian regularization-based methods for inference on treatment effects in high-dimensional settings. We focus on a linear outcome regression model under the Unconfoundedness assumption, comparing Post-Double-Selection Lasso (PDSLasso) method from the frequentist perspective with a generalized High-dimensional Confounding Adjustment (HDCA) framework which incorporates different Bayesian shrinkage priors. Through extensive Monte Carlo simulations and an empirical illustration, the study investigates the finite-sample performance of these methods across various data-generating processes. Key findings include: 1. Regularization-based methods outperform traditional approaches using OLS estimation in high-dimensional settings; 2. PDSLasso shows superior performance in high-sparsity designs but struggles in low-sparsity scenarios; 3. Among HDCA methods, performance varies across the choice of Bayesian shrinkage priors and hyperparameters; 4.There is a link between variable selection and causal inference performance in the Bayesian approach. 
+    </p>
+  </div>
+  </div>
 
 - ***Government disclosure in the pandemic.*** (2020).
 

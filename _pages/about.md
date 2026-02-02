@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Duong Trinh. 
+I am currently a Postdoctoral Researcher in Econometrics at the University of Graz, Austria.
 
-Currently, I am a Ph.D. student in Economics at the [University of Glasgow](https://www.gla.ac.uk/postgraduate/research/economics/), under the supervision of [Professor Dimitris Korobilis](https://sites.google.com/site/dimitriskorobilis/) and [Dr Santiago Montoya-Blándon](https://www.smontoyablandon.com/). 
+I obtained my Ph.D. in Economics in 2025 from the University of Glasgow (UK), under the supervision of [Professor Dimitris Korobilis](https://sites.google.com/site/dimitriskorobilis/), [Dr Santiago Montoya-Blándon](https://www.smontoyablandon.com/), and [Dr Kenichi Shimizu](https://www.kenichi-shimizu.com/). 
 
-I am interested in microeconometrics research, with a focus on Bayesian and machine learning methods, causal inference, and economic heterogeneity.
+My research revolves around Microeconometrics, with a focus on Bayesian and machine learning methods, causal inference, and economic heterogeneity.
 
 ## Education
-* **Ph.D.** in Economics, *University of Glasgow*, 2021–2025 (expected).
+* **Ph.D.** in Economics, *University of Glasgow*, 2021–2025.
 
 * **M.Res.** in Economics , *University of Glasgow*, 2019-2021.
 
@@ -26,3 +26,6 @@ I am interested in microeconometrics research, with a focus on Bayesian and mach
 * Statistical Machine Learning and High-dimensional Models
 * Spatial and Network Models
 * Development Economics, Innovation, Public Policy.
+
+## Contact
+Feel free to reach out via email: [duong.trinh@uni-graz.at](mailto:duong.trinh@uni-graz.at)

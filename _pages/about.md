@@ -28,4 +28,4 @@ My research revolves around Microeconometrics, with a focus on Bayesian and mach
 * Development Economics, Innovation, Public Policy.
 
 ## Contact
-Feel free to reach out via email: [duong.trinh@uni-graz.at](mailto:duong.trinh@uni-graz.at)
+You're welcome to get in touch via email: [duong.trinh@uni-graz.at](mailto:duong.trinh@uni-graz.at)

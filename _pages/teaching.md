@@ -9,24 +9,26 @@ author_profile: true
 
 ## University of Graz
 
-+ Econometrics 2 (Undergraduate)
++ Econometrics 2 
+<small> &bull; Lecturer &bull; Undergraduate &bull; Winter 2025 <small>
 
-+ Microeconometrics (Postgraduate)
++ Microeconometrics
+<small> &bull; Lecturer &bull; Postgraduate &bull; Winter 2025 <small>
 
 
 ## University of Glasgow
 
 + [Introductory Statistics for Economics (ECON1013)](https://github.com/duongtrinhss/GTA-ECON1013-IntroStats)
-<small> &bull; GTA - Undergraduate, University of Glasgow &bull; Spring 2022, 2024, 2025 <small>
+<small> &bull; GTA &bull; Undergraduate &bull; Spring 2022, 2024, 2025 <small>
 
 + [Econometrics 1 (ECON4003)](https://github.com/duongtrinhss/GTA-ECON4003-Econometrics1)
-<small> &bull; GTA - Undergraduate, University of Glasgow &bull; Fall 2020, 2021 <small>
+<small> &bull; GTA &bull; Undergraduate &bull; Fall 2020, 2021 <small>
 
 + [Econometrics 2 (ECON4004)](https://github.com/duongtrinhss/GTA-ECON4004-Econometrics2)
-<small> &bull; GTA - Undergraduate, University of Glasgow &bull; Spring 2024, 2025 <small>
+<small> &bull; GTA &bull; Undergraduate &bull; Spring 2024, 2025 <small>
 
 + [Basic Econometrics (ECON5002)](https://github.com/duongtrinhss/GTA-ECON5002-BasicEconometrics)
-<small> &bull; GTA - Postgraduate, University of Glasgow &bull; Fall 2023, 2024 <small>
+<small> &bull; GTA &bull; Postgraduate &bull; Fall 2023, 2024 <small>
 
 + [Bayesian Data Analysis (ECON5120)](https://www.gla.ac.uk/coursecatalogue/course/?code=ECON5120)
-<small> &bull; GTA - Postgraduate, University of Glasgow &bull; Spring 2025 <small>
+<small> &bull; GTA &bull; Postgraduate &bull; Spring 2025 <small>

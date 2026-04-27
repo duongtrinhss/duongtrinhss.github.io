@@ -9,6 +9,9 @@ author_profile: true
 
 ## University of Graz
 
++ Econometrics 1 
+<small> &bull; Lecturer &bull; Undergraduate &bull; Summer 2026 <small>
+
 + Econometrics 2 
 <small> &bull; Lecturer &bull; Undergraduate &bull; Winter 2025 <small>
 

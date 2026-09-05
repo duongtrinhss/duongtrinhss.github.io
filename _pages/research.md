@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-## Job Market Paper
+## Working Papers
 - ***Causal Inference on Quantiles in High Dimensions: A Bayesian Approach.***
 
   <div class="collapsible"> 
@@ -20,8 +20,6 @@ author_profile: true
     </p>
   </div>
   </div>
-
-## Research Projects
 
 - ***Heterogeneous Peer Effects with Endogenous Network Formation*** (joint with Santiago Montoya-Blandon)
 
@@ -47,6 +45,8 @@ author_profile: true
     </p>
   </div>
   </div>
+  
+## Other Research Projects
 
 - ***A Comparative Review of Bayesian Shrinkage and Variable Selection in Econometrics.*** (joint with Dimitris Korobilis, Kenichi Shimizu) (2022).
 
